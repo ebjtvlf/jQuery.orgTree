@@ -25,8 +25,8 @@ kintoneに登録してある組織が自動的に下図のように表示され�
 
 ## Requirement
 
-Get the organization with api.
 ## Usage
+APIで組織を取得し、optionにセット
 $("#tagName").kintoneOrgTree({
    apiResponse : apiResponse 
 });
