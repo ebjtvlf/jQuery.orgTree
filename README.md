@@ -22,7 +22,7 @@ kintoneの組織構造をチェックボックス型のツリーにするjQuery�
 
 Get the organization with api.
 ## Usage
-$("#tagName").orgTree({
+$("#tagName")kintoneOrgTree({
     //options 
 });
 ## Install
