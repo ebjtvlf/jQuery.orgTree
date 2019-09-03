@@ -1,7 +1,7 @@
 # kintone_library
 kintone_library
 
-The tree structure of kintone is displayed as a tree.
+kintoneの組織構造をチェックボックス型のツリーにするjQueryプラグインです。
 
 
 Get the organization with api.
