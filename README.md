@@ -1,30 +1,30 @@
 # kintone_library
 kintone_library
 
-kintoneの組織構造をチェックボックス型のツリーにするjQueryプラグインです。
 
 
-Get the organization with api.
 
-$("#tagName").orgTree({
-    //options 
-});
+
+
 
 Name
 ====
 
-Overview
+kintoneOrgTree
 
 ## Description
-
+kintoneの組織構造をチェックボックス型のツリーにするjQueryプラグインです。
 ## Demo
 
 ## VS. 
 
 ## Requirement
 
+Get the organization with api.
 ## Usage
-
+$("#tagName").orgTree({
+    //options 
+});
 ## Install
 
 ## Contribution
