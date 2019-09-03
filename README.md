@@ -15,7 +15,7 @@ kintoneOrgTree
 ## Description
 kintoneの組織構造をチェックボックス型のツリーにするjQueryプラグインです。
 ## Demo
-
+![無題](https://user-images.githubusercontent.com/54845469/64181560-a2ecdf80-cea1-11e9-8374-ffa632680d7d.png)
 ## VS. 
 
 ## Requirement
