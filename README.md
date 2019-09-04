@@ -28,7 +28,7 @@ jQuery
 ## Usage
 APIで組織を取得し、optionにセット  
 $("#tagName").kintoneOrgTree({  
-   apiResponse : apiResponse  
+    apiResponse : apiResponse  
 });
 ## Install
 
