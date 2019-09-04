@@ -16,8 +16,9 @@ kintoneに登録してある組織が自動的に下図のように表示され�
 ## Requirement
 jQuery
 ## Usage
+<div id="org_tree"></div>
 APIで組織を取得し、optionにセット  
-$("#tagName").kintoneOrgTree({  
+$("#org_tree").kintoneOrgTree({  
     apiResponse : apiResponse  
 });
 ## Install
