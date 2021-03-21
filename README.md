@@ -30,4 +30,4 @@ MIT
 
 ## Author
 
-Yusaku Ichimura
+Y.I
